@@ -1,8 +1,8 @@
 # corn-farming-analysis-MySQL-Tableau
 This is an analysis of maize farming in Taita Taveta county using MySQL and Tableau.
 
-# Data Source 
-https://www.kaggle.com/datasets/japondo/corn-farming-data
+
+Data Source: https://www.kaggle.com/datasets/japondo/corn-farming-data
 
 Data Cleaning & Analysis - MySQL Workbench
 
