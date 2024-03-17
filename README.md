@@ -14,4 +14,10 @@ Data Visualization - Tableau
 4. How does the number of laborers affect yield?
 
 # Summary of Findings
--. fjkf
+- The average yield per acre is 396.62
+- The average amount of fertilizer used per acre is 114.38
+- Large farms are not significantly more productive than small farms
+- The number of laborers has no effect on production
+
+# Limitations
+The dataset is very small(422) rows.
